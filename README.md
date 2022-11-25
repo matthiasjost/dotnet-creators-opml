@@ -2,8 +2,8 @@
 
 Automatically collected RSS feed URLs from the dotnet-content-creators list
 
-# OPML File:
+## OPML File:
 
 
-# Links
-If you feel like it, feel free to buy me a coffee: buymeacoffee.com/MatthiasJost
+## Links
+- If you feel like it, feel free to buy me a coffee: buymeacoffee.com/MatthiasJost
