@@ -5,8 +5,8 @@ Automatically collected RSS feed URLs from the dotnet-content-creators list
 ## Introduction
 
 It has been a while since I started the dotnet-content-creators list on GitHub. The list grew over time, and many people added their favourite .NET content creators. Over time a list of the most loved English .NET content creators has formed.
+Since a lot of people still use RSS readers these days. I decided to share an OPML file with you. It is a list of all RSS feeds extracted from all the dotnet-content-creators. There are some excellent web-based options out there (see under Links).
 
-Since a lot of people still use RSS readers these days. I decided I wanted to share an OPML file with you. It is a list of all RSS feeds extracted from all the dotnet-content-creators. There are some excellent web-based options out there (see under Links).
 
 ## OPML File
 - Raw: [OPML](https://raw.githubusercontent.com/matthiasjost/dotnet-creators-opml/main/OPML/blog-opml.xml)
