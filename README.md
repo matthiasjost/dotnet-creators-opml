@@ -2,7 +2,7 @@
 
 Automatically collected RSS feed URLs from the dotnet-content-creators list
 
-## OPML File:
+## OPML File
 
 
 ## Links
