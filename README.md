@@ -9,7 +9,7 @@ It has been a while since I started the dotnet-content-creators list on GitHub. 
 Since a lot of people still use RSS readers these days. There are some excellent web-based options out there. I decided I wanted to share an OPML file with you. It is a list of all RSS feeds extracted from all the dotnet-content-creators.
 
 ## OPML File
-[OPML](/OPML/blog-opml.xml)
+- Raw: [OPML](https://raw.githubusercontent.com/matthiasjost/dotnet-creators-opml/main/OPML/blog-opml.xml)
 
 ## Links
 - If you feel like it, feel free to buy me a coffee: [buymeacoffee.com/MatthiasJost](https://buymeacoffee.com/MatthiasJost)
