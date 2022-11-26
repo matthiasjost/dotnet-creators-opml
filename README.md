@@ -11,9 +11,6 @@ Since a lot of people still use RSS readers these days. I decided to share an OP
 Save this file and import it into the RSS reader of your choice, to follow all blogs at once:
 - 🔴 Raw Download: [OPML](https://raw.githubusercontent.com/matthiasjost/dotnet-creators-opml/main/OPML/blog-opml.xml)
 
-### How do I get added to this list?
-All RSS or Atom feeds linked via link or ahref from a channel named "Blog" in the dotnet-content-creators list are added automatically. I rerun the process periodically. 
-
 ## Links
 
 ☕ If you feel like it, feel free to buy me a coffee: 
@@ -25,3 +22,6 @@ All RSS or Atom feeds linked via link or ahref from a channel named "Blog" in th
 
 ⭐ dotnet-content-creators list:
 - [matthiasjost/dotnet-content-creators](https://github.com/matthiasjost/dotnet-content-creators)
+
+## How do I get added to this list?
+All RSS or Atom feeds linked via link or ahref from a channel named "Blog" in the dotnet-content-creators list are added automatically. I rerun the process periodically.
