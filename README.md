@@ -14,7 +14,11 @@ Since a lot of people still use RSS readers these days. I decided to share an OP
 All RSS or Atom feeds that are linked via link or ahref from a channel named "Blog" in the dotnet-content-creators list are added.
 
 ## Links
-- If you feel like it, feel free to buy me a coffee: [buymeacoffee.com/MatthiasJost](https://buymeacoffee.com/MatthiasJost)
+
+☕ If you feel like it, feel free to buy me a coffee: 
+
+[buymeacoffee.com/MatthiasJost](https://buymeacoffee.com/MatthiasJost)
+
 - [Feedly](https://feedly.com/)
 - [Inoreader](https://www.inoreader.com/)
-- GitHub Repo: [matthiasjost/dotnet-content-creators](https://github.com/matthiasjost/dotnet-content-creators)
+- [matthiasjost/dotnet-content-creators](https://github.com/matthiasjost/dotnet-content-creators)
