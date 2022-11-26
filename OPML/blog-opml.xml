@@ -8,6 +8,7 @@
       <outline type="rss" title=".NET Microsoft Channels" xmlUrl="https://devblogs.microsoft.com/dotnet/feed/" />
       <outline type="rss" title="Albert Starreveld" xmlUrl="https://medium.com/feed/@abstarreveld" />
       <outline type="rss" title="Alexis Chân GRIDEL" xmlUrl="https://agdl.dev/feed.rss" />
+      <outline type="rss" title="Andrea Angella" xmlUrl="https://www.productivecsharp.com/feed/" />
       <outline type="rss" title="Andreas Nesheim" xmlUrl="https://www.andreasnesheim.no/feed/" />
       <outline type="rss" title="Andrew Lock" xmlUrl="https://andrewlock.net/rss.xml" />
       <outline type="rss" title="Anurag Sinha" xmlUrl="https://techncodetools.com/feed/" />
@@ -20,8 +21,10 @@
       <outline type="rss" title="Code Maze" xmlUrl="https://code-maze.com/feed/" />
       <outline type="rss" title="Cyril Canovas" xmlUrl="https://goatreview.com/rss/" />
       <outline type="rss" title="Damien Bowden" xmlUrl="https://damienbod.com/feed/" />
+      <outline type="rss" title="Dan Clarke" xmlUrl="https://www.danclarke.com/rss" />
       <outline type="rss" title="Daniel Cazzulino" xmlUrl="https://www.cazzulino.com/feed.xml" />
       <outline type="rss" title="Dave Murray" xmlUrl="https://blog.taranissoftware.com/rss.xml" />
+      <outline type="rss" title="David McCarter" xmlUrl="https://dotnettips.wordpress.com/feed/" />
       <outline type="rss" title="Davide Bellone" xmlUrl="https://www.code4it.dev/rss.xml" />
       <outline type="rss" title="Derek Comartin" xmlUrl="https://codeopinion.com/feed/" />
       <outline type="rss" title="ExceptionNotFound" xmlUrl="https://exceptionnotfound.net/rss/" />
@@ -33,6 +36,7 @@
       <outline type="rss" title="GoatReview" xmlUrl="https://goatreview.com/rss/" />
       <outline type="rss" title="Guilherme Ferreira" xmlUrl="https://gsferreira.com/feed.xml" />
       <outline type="rss" title="Hasan Aboul" xmlUrl="https://learnwithhasan.com/feed/" />
+      <outline type="rss" title="Hassan Rezk Habib" xmlUrl="https://hassanhabib.com/feed/" />
       <outline type="rss" title="Henrique Siebert Domareski" xmlUrl="https://medium.com/feed/@henriquesd" />
       <outline type="rss" title="James Montemagno" xmlUrl="https://montemagno.com/rss/" />
       <outline type="rss" title="Jamie Maguire" xmlUrl="https://jamiemaguire.net/index.php/feed/" />
@@ -61,6 +65,8 @@
       <outline type="rss" title="Mark Heath" xmlUrl="https://markheath.net/feed/rss/" />
       <outline type="rss" title="Mark Seemann" xmlUrl="https://blog.ploeh.dk/rss.xml" />
       <outline type="atom" title="Martin Finkel" xmlUrl="https://mfkl.github.io/feed.xml" />
+      <outline type="rss" title="Matt Eland" xmlUrl="https://newdevsguide.com/feed/" />
+      <outline type="rss" title="Matt Eland" xmlUrl="https://accessibleai.dev/index.xml" />
       <outline type="rss" title="Matthias Güntert" xmlUrl="https://www.azureblue.io/rss/" />
       <outline type="atom" title="Max Hamulyák" xmlUrl="https://kaylumah.nl/feed.xml" />
       <outline type="rss" title="Mehdi Hadeli" xmlUrl="https://www.mehdihadeli.com/rss.xml" />
@@ -83,6 +89,7 @@
       <outline type="rss" title="Rockford Lhotka" xmlUrl="http://feeds.feedburner.com/RockyLhotka" />
       <outline type="rss" title="Saineshwar Bageri" xmlUrl="https://tutexchange.com/feed/" />
       <outline type="atom" title="Sean Killeen" xmlUrl="https://seankilleen.com/feed.xml" />
+      <outline type="rss" title="Shawn Wildermuth" xmlUrl="https://wildermuth.com/feed.xml" />
       <outline type="rss" title="Shreyas Jejurkar" xmlUrl="https://shreyasjejurkar.com/feed/" />
       <outline type="rss" title="Simon Wåhlin" xmlUrl="https://blog.simonw.se/index.xml" />
       <outline type="rss" title="Steve Ardalis Smith" xmlUrl="https://ardalis.com/rss.xml/" />
