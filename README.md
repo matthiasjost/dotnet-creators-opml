@@ -11,7 +11,7 @@ Since a lot of people still use RSS readers these days. I decided to share an OP
 - Raw: [OPML](https://raw.githubusercontent.com/matthiasjost/dotnet-creators-opml/main/OPML/blog-opml.xml)
 
 ### How do I get added to this list?
-All RSS or Atom feeds that are linked via link or ahref from a channel named "Blog" in the dotnet-content-creators list are added.
+All RSS or Atom feeds linked via link or ahref from a channel named "Blog" in the dotnet-content-creators list are added automatically. I rerun the process periodically. 
 
 ## Links
 
