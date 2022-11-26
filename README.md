@@ -16,9 +16,11 @@ All RSS or Atom feeds linked via link or ahref from a channel named "Blog" in th
 ## Links
 
 ☕ If you feel like it, feel free to buy me a coffee: 
+- [buymeacoffee.com/MatthiasJost](https://buymeacoffee.com/MatthiasJost)
 
-[buymeacoffee.com/MatthiasJost](https://buymeacoffee.com/MatthiasJost)
-
+RSS Readers:
 - [Feedly](https://feedly.com/)
 - [Inoreader](https://www.inoreader.com/)
+
+dotnet-content-creators list:
 - [matthiasjost/dotnet-content-creators](https://github.com/matthiasjost/dotnet-content-creators)
