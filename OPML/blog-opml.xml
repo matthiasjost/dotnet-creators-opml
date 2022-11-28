@@ -7,6 +7,7 @@
     <outline text="dotnet-content-creators" title="dotnet-content-creators">
       <outline type="rss" title=".NET Microsoft Channels" xmlUrl="https://devblogs.microsoft.com/dotnet/feed/" />
       <outline type="rss" title="Albert Starreveld" xmlUrl="https://medium.com/feed/@abstarreveld" />
+      <outline type="rss" title="Alexandre Nedelec" xmlUrl="https://www.techwatching.dev/feed.rss" />
       <outline type="rss" title="Alexis Chân GRIDEL" xmlUrl="https://agdl.dev/feed.rss" />
       <outline type="rss" title="Andrea Angella" xmlUrl="https://www.productivecsharp.com/feed/" />
       <outline type="rss" title="Andreas Nesheim" xmlUrl="https://www.andreasnesheim.no/feed/" />
@@ -33,6 +34,7 @@
       <outline type="rss" title="Fons Sonnemans" xmlUrl="https://www.reflectionit.nl/blog/rss" />
       <outline type="atom" title="Frank A. Krueger" xmlUrl="https://praeclarum.org/rss" />
       <outline type="rss" title="Frank Liu" xmlUrl="https://frankliucs.com/feed/" />
+      <outline type="rss" title="Gérald Barré" xmlUrl="https://www.meziantou.net/feed.rss" />
       <outline type="rss" title="Gerald Versluis" xmlUrl="https://blog.verslu.is/feed/" />
       <outline type="rss" title="GoatReview" xmlUrl="https://goatreview.com/rss/" />
       <outline type="rss" title="Guilherme Ferreira" xmlUrl="https://gsferreira.com/feed.xml" />
@@ -72,9 +74,11 @@
       <outline type="rss" title="Matthias Güntert" xmlUrl="https://www.azureblue.io/rss/" />
       <outline type="atom" title="Max Hamulyák" xmlUrl="https://kaylumah.nl/feed.xml" />
       <outline type="rss" title="Mehdi Hadeli" xmlUrl="https://www.mehdihadeli.com/rss.xml" />
+      <outline type="rss" title="Mehdi Hadeli" xmlUrl="https://www.mehdihadeli.com/rss" />
       <outline type="rss" title="Meysam Hadeli" xmlUrl="https://meysamhadeli.com/rss.xml" />
       <outline type="atom" title="Michiel van Oudheusden" xmlUrl="https://mindbyte.nl/feed.xml" />
       <outline type="rss" title="Microsoft Visual Studio" xmlUrl="https://devblogs.microsoft.com/visualstudio/feed/" />
+      <outline type="rss" title="Mike Irving" xmlUrl="http://www.mike-irving.co.uk/rss/" />
       <outline type="rss" title="Milan Jovanović" xmlUrl="https://www.milanjovanovic.tech/rss/feed.xml" />
       <outline type="rss" title="Milan Milanović" xmlUrl="https://milan.milanovic.org/post/index.xml" />
       <outline type="rss" title="Mukesh Murugan" xmlUrl="https://codewithmukesh.com/web-stories/feed/" />
