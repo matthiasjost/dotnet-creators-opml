@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
+  <head>
+    <title>dotnet-youtube</title>
+  </head>
+  <body>
+    <outline text="dotnet-youtube" title="dotnet-youtube">
+      <outline type="rss" title=".NET Foundation" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCiaZbznpWV1o-KLxj8zqR6A" />
+      <outline type="rss" title=".NET Microsoft Channels" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvtT19MZW8dq5Wwfu6B0oxw" />
+      <outline type="rss" title="Ahmad Mozaffar" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRs-PO48PbbS0l7bBhbu5CA" />
+      <outline type="rss" title="Alan Smith" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCTH0I--TUDL-7WgI7wZfwnQ" />
+      <outline type="rss" title="Amichai Mantinband" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClz49zOCnzsclUJY-t62lIw" />
+      <outline type="rss" title="Andrea Angella" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXflBJMuMQ7INty0hZCAvLg" />
+      <outline type="rss" title="Andrew KeepCoding" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbsuXcQJCsrHgsQvUxO_NZw" />
+      <outline type="rss" title="Anto Subash" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRyNnl63sHPuZ1aDye1Wg2w" />
+      <outline type="rss" title="Anton Wieslander" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCP_jWxjn__YXmo4iU7Low0g" />
+      <outline type="rss" title="Bhrugen Patel" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-4lngmBF7h1OVzmCuDiNdw" />
+      <outline type="rss" title="Brendan Enrick" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCA8TsqMrOdFBv66iIuU6efA" />
+      <outline type="rss" title="Chris Patterson" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjC-E0zi1ZokFmshlcq691Q" />
+      <outline type="rss" title="Claudio Bernasconi" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCTbHPk0bIOQwTXuGgD195bw" />
+      <outline type="rss" title="Curious Drive" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCetyodKOWGk5H6FoKoFnkZw" />
+      <outline type="rss" title="Dan Patrascu-Baba" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCyTPru-1gZ7-4qblcKM0TiQ" />
+      <outline type="rss" title="Daniel Hindrikes" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYgCOJLbtiBCHzuoPNovtzQ" />
+      <outline type="rss" title="David Grace" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5ayzs2Jp3biNZscB3qacmw" />
+      <outline type="rss" title="Derek Comartin" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3RKA4vunFAfrfxiJhPEplw" />
+      <outline type="rss" title="DevMentors" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCc3apIciZhgTUw_kk6C9EJQ" />
+      <outline type="rss" title="DotNet Core Central" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjiKyvYzAYCEh4NSfsPG77A" />
+      <outline type="rss" title="Dotnetos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCC25ZltZWdfjwpTw7XXrybw" />
+      <outline type="rss" title="Fanie Reynders" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCiRJnaI0xIJj695qVyu9xoA" />
+      <outline type="rss" title="Frank Liu" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCV26kRmZIQALWhCkO_XKA-Q" />
+      <outline type="rss" title="Furkan Gözükara" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKzrgTDEZjOolJAshjgvSKw" />
+      <outline type="rss" title="Gavin Lon" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCa-Qgwt5VxN0iP3q6reHN6g" />
+      <outline type="rss" title="Gerald Versluis" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBBZ2kXWmd8eXlHg2wEaClw" />
+      <outline type="rss" title="Guilherme Ferreira" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGd8ACZ918e3EjbWxiuyK-A" />
+      <outline type="rss" title="Hasan Aboul" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCiLmLn593TxhOLpvbOfJFRg" />
+      <outline type="rss" title="James Montemagno" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCENTmbKaTphpWV2R2evVz2A" />
+      <outline type="rss" title="Jamie Taylor" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCTDz8IxVCKPmhLemR9eOLPQ" />
+      <outline type="rss" title="Jasper Kent" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqWQzlUDdllnLmtgfSgYTCA" />
+      <outline type="rss" title="Jeffrey T. Fritz" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfvJirlbRTN-bU9sMWMb_ZQ" />
+      <outline type="rss" title="João Antunes" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWwlh9aTz2pGn6q2__yMn_g" />
+      <outline type="rss" title="John Savill" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpIn7ox7j7bH_OFj7tYouOQ" />
+      <outline type="rss" title="Kevin Bost" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwrx8tfGSE-itqJQHx2586Q" />
+      <outline type="rss" title="Kudvenkat/Pragim" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCTVrRB5KpIiK6V2GGVsR1Q" />
+      <outline type="rss" title="Les Jackson" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIMRGVXufHT69s1uaHHYJIA" />
+      <outline type="rss" title="Luke Malpass" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJ3AxeCHGPZkMi3kRfCuiHw" />
+      <outline type="rss" title="Marc Duiker" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmoWqg6T-c8zEGm4sZdnwbA" />
+      <outline type="rss" title="Matt Eland" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtzmz6BfJqDx-8IHkh6ovwA" />
+      <outline type="rss" title="Microsoft Visual Studio" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UChqrDOwARrxdJF-ykAptc7w" />
+      <outline type="rss" title="Milan Jovanović" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCC_dVe-RI-vgCZfls06mDZQ" />
+      <outline type="rss" title="Mohamad Lawand" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9ao0wlk--d-bsjnCHBKDzA" />
+      <outline type="rss" title="Naweed Akram" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUk0jFsrql8cJU5YOUj9yag" />
+      <outline type="rss" title="Nick Chapsas" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrkPsvLGln62OMZRO6K-llg" />
+      <outline type="rss" title="Patrick God" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCq8LldVrjqe61KQttZlLW8g" />
+      <outline type="rss" title="Rahul Nath" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBwvQc_3OkejVEZbHjqiNTg" />
+      <outline type="rss" title="Saar Shen" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFVGdkhRh174GKg9gVEhY6A" />
+      <outline type="rss" title="Scott Hanselman" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCL-fHOdarou-CR2XUmK48Og" />
+      <outline type="rss" title="Shailendra Chauhan" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCuYuSB7JzDslrwwh8EM-4JA" />
+      <outline type="rss" title="Shawn Wildermuth" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVIcSx0JX1lBXnyezabutrA" />
+      <outline type="rss" title="Shivprasad Koirala" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCH912uDFX3sIaPXMrJa9X_w" />
+      <outline type="rss" title="Simon Wåhlin" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnOGqjenFXQV53QfEWMJyzA" />
+      <outline type="rss" title="Simuzeche Kaluwa" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQw4zDb735eezImafcyYlWg" />
+      <outline type="rss" title="SingletonSean" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7X9mQ_XtTYWzr9Tf_NYcIg" />
+      <outline type="rss" title="Stuart Blackler" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCF5dh7bm49bpsZjWHYDG4Lg" />
+      <outline type="rss" title="Tarun Saini" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-NZkLwbVeVi9BzAAaRdWSw" />
+      <outline type="rss" title="Ted Andersen" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpZjU-GdtNJO42H8xPDyxRQ" />
+      <outline type="rss" title="Tim Corey" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-ptWR16ITQyYOglXyQmpzw" />
+      <outline type="rss" title="Trevoir Williams" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCiDaQZu0xwPT-qJoTDMYMCg" />
+      <outline type="rss" title="tutorials.EU" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGjv_3tbzJ8yKuvacoqmO-Q" />
+      <outline type="rss" title="Wes Doyle" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfniixfhHqpIGbU7z2JCNJw" />
+      <outline type="rss" title="Xamarin Developers" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCe-f02uZgEXdHmHpC3loAQg" />
+      <outline type="rss" title="Zoran Horvat" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxsWfh8LCcn55mFB6zGBT1g" />
+    </outline>
+  </body>
+</opml>
