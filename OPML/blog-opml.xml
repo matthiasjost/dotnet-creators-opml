@@ -30,6 +30,7 @@
       <outline type="rss" title="Derek Comartin" xmlUrl="https://codeopinion.com/feed/" />
       <outline type="rss" title="Dustin Moris Gorski" xmlUrl="https://dusted.codes/feed/rss" />
       <outline type="rss" title="Emanuele Bartolesi" xmlUrl="https://dev.to/feed/kasuken" />
+      <outline type="rss" title="Erwin Staal" xmlUrl="https://erwinstaal.nl/index.xml" />
       <outline type="rss" title="ExceptionNotFound" xmlUrl="https://exceptionnotfound.net/rss/" />
       <outline type="rss" title="Fanie Reynders" xmlUrl="https://reynders.co/blog/" />
       <outline type="rss" title="Fons Sonnemans" xmlUrl="https://www.reflectionit.nl/blog/rss" />
@@ -92,7 +93,7 @@
       <outline type="rss" title="Oskar Dudycz" xmlUrl="https://event-driven.io/rss.xml" />
       <outline type="rss" title="Pierre Belin" xmlUrl="https://goatreview.com/rss/" />
       <outline type="rss" title="Rahul Rai" xmlUrl="https://thecloudblog.net/index.xml" />
-      <outline type="rss" title="Rick Strahl" xmlUrl="http://feedproxy.google.com/rickstrahl" />
+      <outline type="rss" title="Rick Strahl" xmlUrl="https://feeds.feedburner.com/rickstrahl" />
       <outline type="rss" title="Rob Bos" xmlUrl="https://devopsjournal.io/blog/atom.xml" />
       <outline type="rss" title="Rockford Lhotka" xmlUrl="http://feeds.feedburner.com/RockyLhotka" />
       <outline type="rss" title="Saineshwar Bageri" xmlUrl="https://tutexchange.com/feed/" />
