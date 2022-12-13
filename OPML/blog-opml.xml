@@ -79,6 +79,7 @@
       <outline type="rss" title="Mehdi Hadeli" xmlUrl="https://www.mehdihadeli.com/rss" />
       <outline type="rss" title="Meysam Hadeli" xmlUrl="https://meysamhadeli.com/rss.xml" />
       <outline type="atom" title="Michael Eaton" xmlUrl="https://samestuffdifferentday.net/feed.xml" />
+      <outline type="rss" title="Micheal Colhoun" xmlUrl="https://colhountech.com/feed/" />
       <outline type="atom" title="Michiel van Oudheusden" xmlUrl="https://mindbyte.nl/feed.xml" />
       <outline type="rss" title="Microsoft Visual Studio" xmlUrl="https://devblogs.microsoft.com/visualstudio/feed/" />
       <outline type="atom" title="Mike Brind" xmlUrl="https://www.mikesdotnetting.com/feed" />
@@ -108,6 +109,7 @@
       <outline type="rss" title="Steven Giesel" xmlUrl="https://steven-giesel.com/feed.rss" />
       <outline type="rss" title="Stuart Blackler" xmlUrl="https://im5tu.io/article/index.xml" />
       <outline type="rss" title="Szymon Kulec" xmlUrl="https://blog.scooletz.com/feed.xml" />
+      <outline type="atom" title="Travis Illig" xmlUrl="https://feeds.feedburner.com/Paraesthesia" />
       <outline type="rss" title="Wolfgang Ofner" xmlUrl="https://programmingwithwolfgang.com/feed.xml" />
       <outline type="rss" title="Wolfgang Ziegler" xmlUrl="https://wolfgang-ziegler.com/blog/rss" />
     </outline>
