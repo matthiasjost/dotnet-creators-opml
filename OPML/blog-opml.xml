@@ -43,6 +43,7 @@
       <outline type="rss" title="Hasan Aboul" xmlUrl="https://learnwithhasan.com/feed/" />
       <outline type="rss" title="Hassan Rezk Habib" xmlUrl="https://hassanhabib.com/feed/" />
       <outline type="rss" title="Henrique Siebert Domareski" xmlUrl="https://medium.com/feed/@henriquesd" />
+      <outline type="atom" title="Jakub Chodounský" xmlUrl="https://chodounsky.com/feed.xml" />
       <outline type="rss" title="James Montemagno" xmlUrl="https://montemagno.com/rss/" />
       <outline type="rss" title="Jamie Maguire" xmlUrl="https://jamiemaguire.net/index.php/feed/" />
       <outline type="rss" title="Jason Taylor" xmlUrl="https://jasontaylor.dev/feed/" />
@@ -94,6 +95,7 @@
       <outline type="rss" title="Oleg Kyrylchuk" xmlUrl="https://blog.okyrylchuk.dev/rss.xml" />
       <outline type="rss" title="Oleksii Nikiforov" xmlUrl="https://nikiforovall.github.io/feed.xml" />
       <outline type="rss" title="Oskar Dudycz" xmlUrl="https://event-driven.io/rss.xml" />
+      <outline type="rss" title="Paul Michaels" xmlUrl="https://pmichaels.net/rss.xml" />
       <outline type="rss" title="Pierre Belin" xmlUrl="https://goatreview.com/rss/" />
       <outline type="rss" title="Rahul Rai" xmlUrl="https://thecloudblog.net/index.xml" />
       <outline type="rss" title="Rick Strahl" xmlUrl="https://feeds.feedburner.com/rickstrahl" />
@@ -111,6 +113,7 @@
       <outline type="rss" title="Stuart Blackler" xmlUrl="https://im5tu.io/article/index.xml" />
       <outline type="rss" title="Szymon Kulec" xmlUrl="https://blog.scooletz.com/feed.xml" />
       <outline type="atom" title="Travis Illig" xmlUrl="https://feeds.feedburner.com/Paraesthesia" />
+      <outline type="rss" title="Trevoir Williams" xmlUrl="https://www.trevoirwilliams.com/rss/" />
       <outline type="rss" title="Wolfgang Ofner" xmlUrl="https://programmingwithwolfgang.com/feed.xml" />
       <outline type="rss" title="Wolfgang Ziegler" xmlUrl="https://wolfgang-ziegler.com/blog/rss" />
     </outline>
