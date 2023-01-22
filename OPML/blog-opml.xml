@@ -13,6 +13,7 @@
       <outline type="rss" title="Andrea Angella" xmlUrl="https://www.productivecsharp.com/feed/" />
       <outline type="rss" title="Andreas Nesheim" xmlUrl="https://www.andreasnesheim.no/feed/" />
       <outline type="rss" title="Andrew Lock" xmlUrl="https://andrewlock.net/rss.xml" />
+      <outline type="rss" title="Antão Almada" xmlUrl="https://medium.com/feed/@antao-almada" />
       <outline type="rss" title="Anurag Sinha" xmlUrl="https://techncodetools.com/feed/" />
       <outline type="rss" title="Berkan Sasmaz" xmlUrl="https://berkansasmaz.com/index.xml" />
       <outline type="rss" title="Brendan Enrick" xmlUrl="https://brendoneus.com/feed.xml" />
@@ -32,6 +33,7 @@
       <outline type="rss" title="Dustin Moris Gorski" xmlUrl="https://dusted.codes/feed/rss" />
       <outline type="rss" title="Emanuele Bartolesi" xmlUrl="https://dev.to/feed/kasuken" />
       <outline type="rss" title="Eric Sink" xmlUrl="https://ericsink.com/rss.xml" />
+      <outline type="atom" title="Erik Ejlskov Jensen" xmlUrl="https://erikej.github.io/feed.xml" />
       <outline type="rss" title="Erwin Staal" xmlUrl="https://erwinstaal.nl/index.xml" />
       <outline type="rss" title="ExceptionNotFound" xmlUrl="https://exceptionnotfound.net/rss/" />
       <outline type="rss" title="Fanie Reynders" xmlUrl="https://reynders.co/blog/" />
@@ -70,6 +72,8 @@
       <outline type="rss" title="Khalid Abuhakmeh" xmlUrl="https://khalidabuhakmeh.com/feed.xml" />
       <outline type="rss" title="Kris Devochko" xmlUrl="https://kristhecodingunicorn.com/post/index.xml" />
       <outline type="rss" title="Laurent Egbakou" xmlUrl="https://lioncoding.com/rss.xml" />
+      <outline type="atom" title="Laurent Kempé" xmlUrl="https://laurentkempe.com/atom.xml" />
+      <outline type="atom" title="Lee Richardson" xmlUrl="http://www.leerichardson.com/feeds/posts/default" />
       <outline type="rss" title="Leomaris Reyes" xmlUrl="https://askxammy.com/feed/" />
       <outline type="rss" title="Les Jackson" xmlUrl="https://dotnetplaybook.com/feed/" />
       <outline type="rss" title="Louëlla Creemers" xmlUrl="https://lovelacecoding.hashnode.dev/rss.xml" />
@@ -98,10 +102,12 @@
       <outline type="rss" title="Mike Irving" xmlUrl="http://www.mike-irving.co.uk/rss/" />
       <outline type="rss" title="Milan Jovanović" xmlUrl="https://www.milanjovanovic.tech/rss/feed.xml" />
       <outline type="rss" title="Milan Milanović" xmlUrl="https://milan.milanovic.org/post/index.xml" />
+      <outline type="rss" title="Mohsen Rajabi" xmlUrl="https://medium.com/feed/@mohsen_rajabi" />
       <outline type="rss" title="Mukesh Murugan" xmlUrl="https://codewithmukesh.com/web-stories/feed/" />
       <outline type="rss" title="Naweed Akram" xmlUrl="https://blogs.xgenoapps.com/syndication.axd" />
       <outline type="rss" title="Niels Swimberghe" xmlUrl="https://swimburger.net/atom.xml" />
       <outline type="rss" title="Nouman Rahman" xmlUrl="https://programmingfire.com/rss.xml" />
+      <outline type="rss" title="Okan Can Karadağ" xmlUrl="https://okankaradag.com/en/feed" />
       <outline type="rss" title="Oleg Kyrylchuk" xmlUrl="https://blog.okyrylchuk.dev/rss.xml" />
       <outline type="rss" title="Oleksii Nikiforov" xmlUrl="https://nikiforovall.github.io/feed.xml" />
       <outline type="rss" title="Oskar Dudycz" xmlUrl="https://event-driven.io/rss.xml" />
