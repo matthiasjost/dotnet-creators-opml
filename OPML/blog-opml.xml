@@ -15,12 +15,15 @@
       <outline type="rss" title="Andrew Lock" xmlUrl="https://andrewlock.net/rss.xml" />
       <outline type="rss" title="Antão Almada" xmlUrl="https://medium.com/feed/@antao-almada" />
       <outline type="rss" title="Anthony Giretti" xmlUrl="https://anthonygiretti.com/feed/" />
+      <outline type="rss" title="Anto Subash" xmlUrl="https://blog.antosubash.com/rss.xml" />
       <outline type="rss" title="Anurag Sinha" xmlUrl="https://techncodetools.com/feed/" />
       <outline type="rss" title="Berkan Sasmaz" xmlUrl="https://berkansasmaz.com/index.xml" />
       <outline type="atom" title="Bojan Veljanovski" xmlUrl="https://bojanveljanovski.com/feed/feed.xml" />
       <outline type="rss" title="Brendan Enrick" xmlUrl="https://brendoneus.com/feed.xml" />
       <outline type="rss" title="Bryan Hogan" xmlUrl="https://nodogmablog.bryanhogan.net/index.xml" />
+      <outline type="rss" title="Camilo Terevinto" xmlUrl="https://www.camiloterevinto.com/rss.xml" />
       <outline type="rss" title="Chris Sainty" xmlUrl="https://chrissainty.com/rss/" />
+      <outline type="rss" title="Chris Woodruff" xmlUrl="https://woodruff.dev/feed/" />
       <outline type="rss" title="Christian Nagel" xmlUrl="https://csharp.christiannagel.com/feed/" />
       <outline type="rss" title="Claudio Bernasconi" xmlUrl="https://www.claudiobernasconi.ch/feed/" />
       <outline type="rss" title="Code Maze" xmlUrl="https://code-maze.com/feed/" />
@@ -32,6 +35,7 @@
       <outline type="rss" title="David McCarter" xmlUrl="https://dotnettips.wordpress.com/feed/" />
       <outline type="rss" title="Davide Bellone" xmlUrl="https://www.code4it.dev/rss.xml" />
       <outline type="rss" title="Derek Comartin" xmlUrl="https://codeopinion.com/feed/" />
+      <outline type="rss" title="Dr. Milan Milanović" xmlUrl="https://milan.milanovic.org/post/index.xml" />
       <outline type="rss" title="Dustin Moris Gorski" xmlUrl="https://dusted.codes/feed/rss" />
       <outline type="rss" title="Emanuele Bartolesi" xmlUrl="https://dev.to/feed/kasuken" />
       <outline type="rss" title="Eric Sink" xmlUrl="https://ericsink.com/rss.xml" />
@@ -56,6 +60,7 @@
       <outline type="rss" title="James Montemagno" xmlUrl="https://montemagno.com/rss/" />
       <outline type="rss" title="Jamie Maguire" xmlUrl="https://jamiemaguire.net/index.php/feed/" />
       <outline type="rss" title="Jason Taylor" xmlUrl="https://jasontaylor.dev/feed/" />
+      <outline type="rss" title="Jérémy BRUN-PICARD" xmlUrl="https://www.respawnsive.com/en/feed/" />
       <outline type="rss" title="Jeremy Sinclair" xmlUrl="https://sinclairinat0r.com/rss" />
       <outline type="rss" title="Jesse Liberty" xmlUrl="http://feeds.feedburner.com/JesseLiberty" />
       <outline type="rss" title="Jhonatan Oliveira" xmlUrl="https://blog.jhonatanoliveira.dev/rss.xml" />
@@ -68,6 +73,7 @@
       <outline type="rss" title="Jonah Andersson" xmlUrl="https://jonahandersson.tech/feed/" />
       <outline type="rss" title="Jonathan Dick" xmlUrl="https://redth.codes/rss.xml" />
       <outline type="rss" title="José Pablo Ramírez Vargas" xmlUrl="https://webjose.hashnode.dev/rss.xml" />
+      <outline type="rss" title="Julian Ewers-Peters" xmlUrl="https://ewerspej.hashnode.dev/rss.xml" />
       <outline type="rss" title="Jürgen Gutsch" xmlUrl="https://asp.net-hacker.rocks/rss.xml" />
       <outline type="rss" title="Kevin Dockx" xmlUrl="https://www.kevindockx.com/feed/" />
       <outline type="rss" title="Kevin Gosse" xmlUrl="https://medium.com/feed/@kevingosse" />
@@ -92,6 +98,7 @@
       <outline type="rss" title="Matt Eland" xmlUrl="https://newdevsguide.com/feed/" />
       <outline type="rss" title="Matt Eland" xmlUrl="https://accessibleai.dev/index.xml" />
       <outline type="rss" title="Matthias Güntert" xmlUrl="https://www.azureblue.io/rss/" />
+      <outline type="rss" title="Matthias Jost" xmlUrl="https://www.matthias-jost.ch/en/feed/" />
       <outline type="atom" title="Max Hamulyák" xmlUrl="https://kaylumah.nl/feed.xml" />
       <outline type="rss" title="Mehdi Hadeli" xmlUrl="https://www.mehdihadeli.com/rss.xml" />
       <outline type="rss" title="Mehdi Hadeli" xmlUrl="https://www.mehdihadeli.com/rss" />
@@ -103,7 +110,6 @@
       <outline type="atom" title="Mike Brind" xmlUrl="https://www.mikesdotnetting.com/feed" />
       <outline type="rss" title="Mike Irving" xmlUrl="http://www.mike-irving.co.uk/rss/" />
       <outline type="rss" title="Milan Jovanović" xmlUrl="https://www.milanjovanovic.tech/rss/feed.xml" />
-      <outline type="rss" title="Milan Milanović" xmlUrl="https://milan.milanovic.org/post/index.xml" />
       <outline type="rss" title="Mohsen Rajabi" xmlUrl="https://medium.com/feed/@mohsen_rajabi" />
       <outline type="rss" title="Mukesh Murugan" xmlUrl="https://codewithmukesh.com/web-stories/feed/" />
       <outline type="rss" title="Naweed Akram" xmlUrl="https://blogs.xgenoapps.com/syndication.axd" />
@@ -112,10 +118,13 @@
       <outline type="rss" title="Okan Can Karadağ" xmlUrl="https://okankaradag.com/en/feed" />
       <outline type="rss" title="Oleg Kyrylchuk" xmlUrl="https://blog.okyrylchuk.dev/rss.xml" />
       <outline type="rss" title="Oleksii Nikiforov" xmlUrl="https://nikiforovall.github.io/feed.xml" />
+      <outline type="rss" title="Omid Ahmadpour" xmlUrl="https://medium.com/feed/@omid-ahmadpour" />
       <outline type="rss" title="Oskar Dudycz" xmlUrl="https://event-driven.io/rss.xml" />
       <outline type="rss" title="Paul Michaels" xmlUrl="https://pmichaels.net/rss.xml" />
+      <outline type="rss" title="Peter Foot" xmlUrl="https://inthehand.com/feed/" />
       <outline type="rss" title="Pierre Belin" xmlUrl="https://goatreview.com/rss/" />
       <outline type="rss" title="Rahul Rai" xmlUrl="https://thecloudblog.net/index.xml" />
+      <outline type="atom" title="Renato Golia" xmlUrl="https://renatogolia.com/feed.xml" />
       <outline type="rss" title="Rick Strahl" xmlUrl="https://feeds.feedburner.com/rickstrahl" />
       <outline type="rss" title="Rijwan Ansari" xmlUrl="https://rijsat.com/feed/" />
       <outline type="rss" title="Rob Bos" xmlUrl="https://devopsjournal.io/blog/atom.xml" />
